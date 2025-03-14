@@ -2,7 +2,7 @@
 
 ## 📌 Overview
  
-    This is a simple digital clock project built using Python and CustomTkinter. It displays the current time in hours, minutes, and seconds, updates in real-time, and includes light/dark mode as well as AM/PM formatting.
+*This is a simple digital clock project built using Python and CustomTkinter. It displays the current time in hours, minutes, and seconds, updates in real-time, and includes light/dark mode as well as AM/PM formatting.*
 
 ## 🔧 Features
 
