@@ -19,11 +19,11 @@
 
 ## 🛠️ Requirements
 
-    Ensure you have Python installed on your system. Download it from python.org.
+    *Ensure you have Python installed on your system. Download it from python.org.*
 
 ### Install Dependencies
 
-    To install required libraries, run:
+*To install required libraries, run:*
 
     ```bash
     pip install -r requirements.txt
